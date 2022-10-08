@@ -1,0 +1,77 @@
+.caixa{
+    width: 100%;
+    min-height: 840px;
+}
+.caixa1{
+    width: 10%;
+    background: #f6f6f6;
+    height: 840px;
+    float: left;
+}
+.caixa2{
+    width: 20%;
+    background: linear-gradient(180deg, #26D4E8,#1E90FF,#0f42b9) ;
+    height: 840px;
+    float: left;
+    display: flex;
+    flex-direction: inherit;
+}
+.caixa3{
+    width: 60%;
+    background: #f2f2f2;
+    height: 840px;
+    float: left;
+    
+}
+.imgsemfundo{
+    width: 16rem;
+    padding: 18rem 0rem;
+}
+.form{
+    width: 70%;
+    margin-top: 3em;
+    margin-left: 3.5em;
+}
+.h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Ubuntu';
+
+}
+.d7{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+label{
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+.btnimagem{
+    padding: 0.7em;
+    border-radius: 0;
+    border: none;
+    background: transparent;
+    font-size: 14px;
+}
+.btndata{
+    padding: 0.7em;
+    width: 7rem;
+    border-radius: 0;
+    border: none;
+    border-bottom: 2px solid #0f42b9;
+    background: transparent;
+    font-size: 14px;
+}
+.btnareatext{
+    padding: 0.7em;
+    border-radius: 0;
+    border: 2px solid #0f42b9;
+    background: transparent;
+    font-size: 14px;
+}
+.btnareatext:focus{
+    border-color: #1E90FF;
+    outline: 0;
+}

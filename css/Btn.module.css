@@ -1,0 +1,18 @@
+.divbtn{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    height: 3rem;
+    font-size: 18px;
+    background: linear-gradient(180deg, #0f42b9, #1E90FF);
+    border: none;
+    font-weight: bold;
+    color: #fff;
+}
+.btn:hover{
+    background: #fff;
+    color: #0f42b9;
+    border: 2px solid #0f42b9;
+    transition: 2s;
+}

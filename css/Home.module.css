@@ -1,0 +1,33 @@
+.div4{
+    width: 100%;
+    height: 100%;
+}
+.div5{
+    width: 40%;
+    height: 543px;
+    float: left;
+    background: linear-gradient(180deg, #26D4E8, #1E90FF, #0f42b9);
+}
+.div6{
+    width: 60%;
+    height: 543px;
+    float: right;
+    background: linear-gradient(180deg, #26D4E8, #1E90FF, #0f42b9);
+}
+.img3{
+    width: 44rem;
+    padding: 10rem 1rem 0rem 3rem;
+}
+.titulo{
+    color: #fff;
+    font-size: 58px;
+    font-family: 'Helvetica Neue';
+    text-align: center;
+    font-weight: 700;
+    padding: 7rem 0rem 0rem 0em;
+}
+.text{
+    color: #fff;
+    text-align: center;
+    font-size: 17px;
+}
